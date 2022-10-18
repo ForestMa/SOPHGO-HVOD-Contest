@@ -1,3 +1,0 @@
-car
-person
-bike
