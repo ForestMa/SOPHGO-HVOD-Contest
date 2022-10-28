@@ -61,7 +61,7 @@ P.S. 我们在scripts/文件夹中为选手提供脚本，可将`<class_id> <con
    ```
    python3 convert_gt_yolo.py
    ```
-
+选手提交成绩后，若审核无误将会每日于result_submit/readme.md中更新分数，每周于赛事官网页面更新分数
 ### 6.评分标准
 
 **初赛：**
