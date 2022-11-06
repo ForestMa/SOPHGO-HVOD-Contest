@@ -147,5 +147,5 @@ P.S. 我们在scripts/文件夹中为选手提供脚本，可将`<class_id> <con
 2. 在大赛举办过程中，竞赛规程可能会有少量的变更和调整，所有内容均以大赛官网为准。
 3. 本大赛规程的最终解释权归TPU编程竞赛委员会所有。
 
-
+![Image text](https://github.com/ForestMa/SOPHGO-HVOD-Contest/blob/main/image_QRcode/%E3%80%90AI%E7%AE%97%E6%B3%95%E5%88%9B%E6%96%B0%E8%B5%9B%E3%80%91%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
 
