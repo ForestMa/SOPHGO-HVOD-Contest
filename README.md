@@ -150,4 +150,3 @@ P.S. 我们在scripts/文件夹中为选手提供脚本，可将`<class_id> <con
 
 
 
-![image-20221106180121125](D:\Users\da.teng\AppData\Roaming\Typora\typora-user-images\image-20221106180121125.png)
